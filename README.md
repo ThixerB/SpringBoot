@@ -29,7 +29,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://www.flaticon.es/iconos-gratis/desarrollador" title="desarrollador iconos">Desarrollador iconos creados por Freepik - Flaticon</a>
   <h3 align="center">WELCOME TO THE PROYECT</h3>
 
   <p align="center">
